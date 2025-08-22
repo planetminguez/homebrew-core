@@ -4,6 +4,7 @@ class Nvc < Formula
   url "https://github.com/nickg/nvc/releases/download/r1.17.1/nvc-1.17.1.tar.gz"
   sha256 "6afcbcc860c755d6166abb0582cf72038985b7fad1af84565b13e156570209c4"
   license "GPL-3.0-or-later"
+  revision 1
 
   bottle do
     sha256 arm64_sequoia: "86c58cf91707bda3dcb8e3f73986102393cbb1d6b964869eee14e691a2f42576"
