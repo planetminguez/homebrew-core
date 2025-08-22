@@ -6,6 +6,7 @@ class Vgmstream < Formula
       revision: "f96812ead1560b43ef56d1d388a5f01ed92a8cc0"
   version "r2023"
   license "ISC"
+  revision 1
   version_scheme 1
   head "https://github.com/vgmstream/vgmstream.git", branch: "master"
 
